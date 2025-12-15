@@ -1,0 +1,5 @@
+{
+  "name": "ProtoLens - Protobuf Visualizer",
+  "description": "An interactive Protobuf inspector. Upload .proto definitions and binary data to visualize the decoding process with bidirectional hex-to-field highlighting.",
+  "requestFramePermissions": []
+}
